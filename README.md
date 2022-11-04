@@ -11,7 +11,8 @@
 
 ---
 
-<h2 align="justify">I'm from Colombia CO🇨🇴, now I'm working for <a href=https://munitienda.com/"> MUNI tienda</a>.<br>A Software engineer passionate about Data Science 📊. I like build things, and exploring scalability problems and improving efficiency and performance.<br>
+<h2 align="justify">I'm from Colombia CO🇨🇴, now I'm working for <a href=https://munitienda.com/> MUNI tienda</a>
+<a href="https://github.com/JoseJulianMosqueraFuli/JoseJulianMosqueraFuli/blob/main/images/MuniLogo.png"><img width="40" align='center' src="https://github.com/JoseJulianMosqueraFuli/JoseJulianMosqueraFuli/blob/main/images/MuniLogo.png"></a>.<br>A Software engineer passionate about Data Science 📊. I like build things, and exploring scalability problems and improving efficiency and performance.<br>
 I have a passion for learning and motivate others in a way that's as possible.<br></h2>
 <h3 align="justify">
     <ul type="A">
