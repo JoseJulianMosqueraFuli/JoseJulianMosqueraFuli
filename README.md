@@ -5,6 +5,9 @@
 
 ---
 <h1 align="center">👋Hi there,<br>My name is <a href="https://www.linkedin.com/in/jose-julian-mosquera-fuli/">Jose</a></h1>
+<p>
+  <a href="https://media-exp1.licdn.com/dms/image/C5603AQFs2YztVmWJLQ/profile-displayphoto-shrink_800_800/0/1633187862495?e=1672876800&v=beta&t=T8nZpP-WZwjcPUkM0iPP2EiXwu03-znaXujAhK9G63M"><img width="150" align='right' src="https://media-exp1.licdn.com/dms/image/C5603AQFs2YztVmWJLQ/profile-displayphoto-shrink_800_800/0/1633187862495?e=1672876800&v=beta&t=T8nZpP-WZwjcPUkM0iPP2EiXwu03-znaXujAhK9G63M"></a>
+</p>
 
 ---
 
