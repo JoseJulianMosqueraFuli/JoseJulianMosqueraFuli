@@ -1,6 +1,6 @@
 
 <p>
-  <a href="https://waylonwalker.com/latest-story.png](https://github.com/JoseJulianMosqueraFuli/JoseJulianMosqueraFuli/blob/main/images/learn-ligth.png"><img width="150" align='right' src="https://waylonwalker.com/latest-story.png](https://github.com/JoseJulianMosqueraFuli/JoseJulianMosqueraFuli/blob/main/images/learn-ligth.png"></a>
+  <a href="https://github.com/JoseJulianMosqueraFuli/JoseJulianMosqueraFuli/blob/main/images/learn-ligth.png"><img width="150" align='right' src="https://github.com/JoseJulianMosqueraFuli/JoseJulianMosqueraFuli/blob/main/images/learn-ligth.png"></a>
 </p>
 
 ---
