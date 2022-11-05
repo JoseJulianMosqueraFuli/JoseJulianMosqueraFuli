@@ -1,18 +1,19 @@
-<a href="https://github.com/JoseJulianMosqueraFuli/JoseJulianMosqueraFuli/blob/main/images/learn-ligth.png"> <img height="auto" width="100" align='right' border-radius="50%" src="https://github.com/JoseJulianMosqueraFuli/JoseJulianMosqueraFuli/blob/main/images/learn-ligth.png"></a>
+
+<a href="https://github.com/JoseJulianMosqueraFuli/JoseJulianMosqueraFuli/blob/main/images/learn-ligth.png" style="border-radius:50%;"> <img height="auto" width="100" align='right'  src="https://github.com/JoseJulianMosqueraFuli/JoseJulianMosqueraFuli/blob/main/images/learn-ligth.png"></a>
 
 ---
 
-<h1 align="center">👋Hi there,<br>My name is <a href="https://www.linkedin.com/in/jose-julian-mosquera-fuli/">Jose Julian Mosquera</a></h1>
+<h1 align="center" >👋Hi there,<br>My name is <a href="https://www.linkedin.com/in/jose-julian-mosquera-fuli/">Jose Julian Mosquera</a></h1>
 <p>
   <a href="https://media-exp1.licdn.com/dms/image/C5603AQFs2YztVmWJLQ/profile-displayphoto-shrink_800_800/0/1633187862495?e=1672876800&v=beta&t=T8nZpP-WZwjcPUkM0iPP2EiXwu03-znaXujAhK9G63M"><img width="150" align='right' src="https://media-exp1.licdn.com/dms/image/C5603AQFs2YztVmWJLQ/profile-displayphoto-shrink_800_800/0/1633187862495?e=1672876800&v=beta&t=T8nZpP-WZwjcPUkM0iPP2EiXwu03-znaXujAhK9G63M"></a>
 </p>
 
 ---
 
-<h2 align="justify">I'm from Colombia CO🇨🇴, now I'm working for <a href=https://munitienda.com/> Muni Tienda</a>
+<h3 align="justify">I'm from Colombia CO🇨🇴, now I'm working for <a href=https://munitienda.com/> Muni Tienda</a>
 <a href="https://github.com/JoseJulianMosqueraFuli/JoseJulianMosqueraFuli/blob/main/images/MuniLogo.png"><img width="40" align='center' src="https://github.com/JoseJulianMosqueraFuli/JoseJulianMosqueraFuli/blob/main/images/MuniLogo.png"></a>.<br>A Software engineer passionate about Data Science 📊. I like build things, and exploring scalability problems and improving efficiency and performance.<br>
-I have a passion for learning and motivate others in a way that's as possible.<br> </h2>
-<h3 align="justify">
+I have a passion for learning and motivate others in a way that's as possible.<br> </h3>
+<h5 align="justify">
     <ul type="A">
         <li>🎓 I graduated from Universidad del Cauca - Electronic Engineering Department.</li>
         <li>🥸Fun fact:</b> I believe in the <b>Chaos theory</b>: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.</li>
@@ -26,7 +27,7 @@ I have a passion for learning and motivate others in a way that's as possible.<b
 		        <li>MySQL
             </ul>
         </li>
-        </ul></h3>
+        </ul></h5>
 
   ---
 
@@ -36,7 +37,7 @@ I have a passion for learning and motivate others in a way that's as possible.<b
 
 --- 
 ### Boy Scout Rule
-<h3 align="justify">I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  I 💕 a good onboarding readme with good example.</h3
+<h5 align="justify">I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  I 💕 a good onboarding readme with good example.</h5>
 
 ---
 
