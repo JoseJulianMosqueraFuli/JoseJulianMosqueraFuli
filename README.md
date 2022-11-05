@@ -16,9 +16,9 @@
 I have a passion for learning and motivate others in a way that's as possible.<br> </h2>
 <h3 align="justify">
     <ul type="A">
-        <li>🤓💻📚 I graduated in <b>Electronic and Telecommunications Engineering from Universidad del Cauca, Colombia🇨🇴</b>.</li>
-        <li><b>🤡Fun fact:</b> I believe in the <b>Chaos theory</b>: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially</b>.</li>
-        <li>💬 Talk to me about Rugby, Weightlifting, Powerlifting, Memes, Anime, Movies 🎥, Assassin's Creed, GTA V, Red Dead Redemption, God of War 🎮, Amateur Photography 📸</b>.
+        <li>🎓 I graduated from Universidad del Cauca - Electronic Engineering Department.</li>
+        <li>🥸Fun fact:</b> I believe in the <b>Chaos theory</b>: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.</li>
+        <li>💬 Talk to me about Rugby, Weightlifting, Powerlifting, Memes, Anime, Movies 🎥, Assassin's Creed, GTA V, Red Dead Redemption, God of War 🎮, Amateur Photography 📸.
         <li>🔭 I’m currently working on:
  	    Backend Programing
     		<ul>
