@@ -11,10 +11,10 @@
 
 ---
 
-<h3 align="justify">I'm from Colombia CO🇨🇴, now I'm working for <a href=https://munitienda.com/> Muni Tienda</a>
+<h2 align="justify">I'm from Colombia CO🇨🇴, now I'm working for <a href=https://munitienda.com/> Muni Tienda</a>
 <a href="https://github.com/JoseJulianMosqueraFuli/JoseJulianMosqueraFuli/blob/main/images/MuniLogo.png"><img width="40" align='center' src="https://github.com/JoseJulianMosqueraFuli/JoseJulianMosqueraFuli/blob/main/images/MuniLogo.png"></a>.<br>A Software engineer passionate about Data Science 📊. I like build things, and exploring scalability problems and improving efficiency and performance.<br>
-I have a passion for learning and motivate others in a way that's as possible.<br> </h3>
-<h4 align="justify">
+I have a passion for learning and motivate others in a way that's as possible.<br> </h2>
+<h3 align="justify">
     <ul type="A">
         <li>🤓💻📚 I graduated in <b>Electronic and Telecommunications Engineering from Universidad del Cauca, Colombia🇨🇴</b>.</li>
         <li><b>🤡Fun fact:</b> I believe in the <b>Chaos theory</b>: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially</b>.</li>
