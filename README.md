@@ -1,9 +1,7 @@
-
-<p>
- <img width="150" align='right' src="https://github.com/JoseJulianMosqueraFuli/JoseJulianMosqueraFuli/blob/main/images/learn-ligth.png"></a>
-</p>
+<a href="https://github.com/JoseJulianMosqueraFuli/JoseJulianMosqueraFuli/blob/main/images/learn-ligth.png"> <img height="auto" width="100" align='right' border-radius="50%" src="https://github.com/JoseJulianMosqueraFuli/JoseJulianMosqueraFuli/blob/main/images/learn-ligth.png"></a>
 
 ---
+
 <h1 align="center">👋Hi there,<br>My name is <a href="https://www.linkedin.com/in/jose-julian-mosquera-fuli/">Jose Julian Mosquera</a></h1>
 <p>
   <a href="https://media-exp1.licdn.com/dms/image/C5603AQFs2YztVmWJLQ/profile-displayphoto-shrink_800_800/0/1633187862495?e=1672876800&v=beta&t=T8nZpP-WZwjcPUkM0iPP2EiXwu03-znaXujAhK9G63M"><img width="150" align='right' src="https://media-exp1.licdn.com/dms/image/C5603AQFs2YztVmWJLQ/profile-displayphoto-shrink_800_800/0/1633187862495?e=1672876800&v=beta&t=T8nZpP-WZwjcPUkM0iPP2EiXwu03-znaXujAhK9G63M"></a>
@@ -69,59 +67,5 @@ I have a passion for learning and motivate others in a way that's as possible.<b
 <a href="https://www.linkedin.com/in/jose-julian-mosquera-fuli/"><img height="50" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
---
-## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers _258_
+---
 
-<a href='https://twitter.com/natterstefan'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1255562113629802498/nTk-e7L5_normal.jpg' />
-</a>
-
-<a href='https://twitter.com/natterstefan'>
-    Stefan Natter 🇦🇹👋🏻
-</a>
-
-I am interested in and talking about JavaScript, ReactJS, CSS, and Software Engineering ♥️ | 📧 https://t.co/Jpwh9TFgNx (🐈🐈 🤵👰🏻 🇦🇹)
-
-<h2></h2><a href='https://twitter.com/commanderquest'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1243185628864528384/eFnPWZyC_normal.jpg' />
-</a>
-
-<a href='https://twitter.com/commanderquest'>
-    Commander Quest
-</a>
-
-On a mission to the furthest frontiers of tech and talent. 
-Follow my adventures at Club Freelance's Mission Control Center 👉 https://t.co/D4k36nU2at
-
-<h2></h2><a href='https://twitter.com/benjaminwardcom'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1283469746055385088/sr9ZExwG_normal.jpg' />
-</a>
-
-<a href='https://twitter.com/benjaminwardcom'>
-    Benjamin Ward
-</a>
-
-software engineer, dev coach, Star Wars fanatic, learning enthusiast, host of the Download Knowledge Podcast https://t.co/V2bIR93cQW
-
-<h2></h2><a href='https://twitter.com/tucker_dev'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1284727066160705536/VhioFBZE_normal.jpg' />
-</a>
-
-<a href='https://twitter.com/tucker_dev'>
-    James Tucker
-</a>
-
-software engineer at @soonastudios. career switcher. vue + rails. tweeting about tech, books, startups, and big ideas. writing @ https://t.co/SPyap1XFWD. he/him
-
-<h2></h2><a href='https://twitter.com/BenGuthmiller'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1284966756906409984/MR0a9hi2_normal.jpg' />
-</a>
-
-<a href='https://twitter.com/BenGuthmiller'>
-    Ben Guthmiller
-</a>
-
-Data and Analytics Leader @IBM | Minnesota State Alum | #Technologist | #Investor | Tweets are my own opinions
-
-<h2> </h2>
---
