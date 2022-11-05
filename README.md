@@ -11,10 +11,10 @@
 
 ---
 
-<h2 align="justify">I'm from Colombia CO🇨🇴, now I'm working for <a href=https://munitienda.com/> Muni Tienda</a>
+<h3 align="justify">I'm from Colombia CO🇨🇴, now I'm working for <a href=https://munitienda.com/> Muni Tienda</a>
 <a href="https://github.com/JoseJulianMosqueraFuli/JoseJulianMosqueraFuli/blob/main/images/MuniLogo.png"><img width="40" align='center' src="https://github.com/JoseJulianMosqueraFuli/JoseJulianMosqueraFuli/blob/main/images/MuniLogo.png"></a>.<br>A Software engineer passionate about Data Science 📊. I like build things, and exploring scalability problems and improving efficiency and performance.<br>
-I have a passion for learning and motivate others in a way that's as possible.<br></h2>
-<h3 align="justify">
+I have a passion for learning and motivate others in a way that's as possible.<br> </h3>
+<h4 align="justify">
     <ul type="A">
         <li>🤓💻📚 I graduated in <b>Electronic and Telecommunications Engineering from Universidad del Cauca, Colombia🇨🇴</b>.</li>
         <li><b>🤡Fun fact:</b> I believe in the <b>Chaos theory</b>: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially</b>.</li>
@@ -38,8 +38,7 @@ I have a passion for learning and motivate others in a way that's as possible.<b
 
 --- 
 ### Boy Scout Rule
-
-I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  I 💕 a good onboarding readme with good example.
+<h3 align="justify">I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  I 💕 a good onboarding readme with good example.</h3
 
 ---
 
@@ -65,12 +64,12 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
 ### Contact
 
 <p align='center'>
-<a href="https://dev.to/waylonwalker"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/_waylonwalker"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/jose-julian-mosquera-fuli/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://dev.to/waylonwalker"><img height="50" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/JoseJMosqueraF"><img height="50" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/jose-julian-mosquera-fuli/"><img height="50" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
-<!--
+--
 ## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers _258_
 
 <a href='https://twitter.com/natterstefan'>
@@ -124,5 +123,5 @@ software engineer at @soonastudios. career switcher. vue + rails. tweeting about
 
 Data and Analytics Leader @IBM | Minnesota State Alum | #Technologist | #Investor | Tweets are my own opinions
 
-<h2></h2>
--->
+<h2> </h2>
+--
