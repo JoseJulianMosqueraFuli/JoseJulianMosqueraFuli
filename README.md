@@ -32,10 +32,9 @@ I have a passion for learning and motivate others in a way that's as possible.<b
   ---
 
  <p>
-  <img width="250" align='left' src="https://www.flaticon.com/free-icon/boy-scout_2733336?term=scout&page=1&position=1&page=1&position=1&related_id=2733336&origin=search">
+  <img width="50" align='left' src="https://github.com/JoseJulianMosqueraFuli/JoseJulianMosqueraFuli/blob/main/images/gif/up-wilderness.gif">
 </p>
 
---- 
 ### Boy Scout Rule
 <p align="justify">I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  I 💕 a good onboarding readme with good example.</p>
 
