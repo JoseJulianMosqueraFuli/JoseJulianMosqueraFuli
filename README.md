@@ -31,7 +31,7 @@ I have a passion for learning and motivate others in a way that's as possible.<b
 
   ---
 
- <p>
+<p>
   <img width="50" align='left' src="https://github.com/JoseJulianMosqueraFuli/JoseJulianMosqueraFuli/blob/main/images/gif/up-wilderness.gif">
 </p>
 
@@ -59,7 +59,13 @@ I have a passion for learning and motivate others in a way that's as possible.<b
 	<img title="Tableau" alt="Tableau" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/tableau.svg" width="200" />
 </p>
 
-### Contact
+
+### Contact me
+
+<p>
+  <img width="100" align='left' src="https://github.com/JoseJulianMosqueraFuli/JoseJulianMosqueraFuli/blob/main/images/gif/cat-typing.gif">
+</p>
+
 
 <p align='center'>
 <a href="https://dev.to/waylonwalker"><img height="50" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
