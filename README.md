@@ -1,5 +1,5 @@
 
-<a href="https://github.com/JoseJulianMosqueraFuli/JoseJulianMosqueraFuli/blob/main/images/learn-ligth.png" style="border-radius:50%;"> <img height="auto" width="100" align='right'  src="https://github.com/JoseJulianMosqueraFuli/JoseJulianMosqueraFuli/blob/main/images/learn-ligth.png"></a>
+<a href="https://github.com/JoseJulianMosqueraFuli/JoseJulianMosqueraFuli/blob/main/images/learn-ligth.png"> <img height="auto" width="100" align='right'  src="https://github.com/JoseJulianMosqueraFuli/JoseJulianMosqueraFuli/blob/main/images/learn-ligth.png"></a>
 
 ---
 
@@ -14,20 +14,21 @@
 <a href="https://github.com/JoseJulianMosqueraFuli/JoseJulianMosqueraFuli/blob/main/images/MuniLogo.png"><img width="40" align='center' src="https://github.com/JoseJulianMosqueraFuli/JoseJulianMosqueraFuli/blob/main/images/MuniLogo.png"></a>.<br>A Software engineer passionate about Data Science 📊. I like build things, and exploring scalability problems and improving efficiency and performance.<br>
 I have a passion for learning and motivate others in a way that's as possible.<br></p>
 <p align="justify">
-    <ul type="A">
-        <li>🎓 I graduated from Universidad del Cauca - Electronic Engineering Department.</li>
-        <li>🥸Fun fact:</b> I believe in the <b>Chaos theory</b>: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.</li>
-        <li>💬 Talk to me about Rugby, Weightlifting, Powerlifting, Memes, Anime, Movies 🎥, Assassin's Creed, GTA V, Red Dead Redemption, God of War 🎮, Amateur Photography 📸.
-        <li>🔭 I’m currently working on:
+	<ul type="A">
+        	<li>🎓 I graduated from Universidad del Cauca - Electronic Engineering Department.</li>
+        	<li>🥸Fun fact:</b> I believe in the <b>Chaos theory</b>: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.</li>
+        	<li>💬 Talk to me about Rugby, Weightlifting, Powerlifting, Memes, Anime, Movies 🎥, Assassin's Creed, GTA V, Red Dead Redemption, God of War 🎮, Amateur Photography 📸.
+        	<li>🔭 I’m currently working on:
  	    Backend Programing
-    		<ul>
-               <li> Python, PHP and Typescript.
-		        <li>AWS and Snowflake.
-    		    <li>Docker, Django, Laravel and Nextjs.
-		        <li>MySQL
-            </ul>
-        </li>
-        </ul></p>
+			<ul>
+				<li> Python, PHP and Typescript.
+				<li>AWS and Snowflake.
+    				<li>Docker, Django, Laravel and Nextjs.
+				<li>MySQL
+        		</ul>
+        	</li>
+	</ul>
+</p>
 
   ---
 
