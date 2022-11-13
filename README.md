@@ -11,7 +11,7 @@
 ---
 
 <p align="justify">I'm from Colombia CO🇨🇴, now I'm working for <a href=https://munitienda.com/> Muni Tienda</a>
-<a href="https://github.com/JoseJulianMosqueraFuli/JoseJulianMosqueraFuli/blob/main/images/MuniLogo.png"><img width="40" align='center' src="https://github.com/JoseJulianMosqueraFuli/JoseJulianMosqueraFuli/blob/main/images/MuniLogo.png"></a>.<br>A Software engineer passionate about Data Science 📊. I like build things, and exploring scalability problems and improving efficiency and performance.<br>
+<img width="40" align='center' src="https://github.com/JoseJulianMosqueraFuli/JoseJulianMosqueraFuli/blob/main/images/MuniLogoPayments.png"></a>.<br>A Software engineer passionate about Data Science 📊. I like build things, and exploring scalability problems and improving efficiency and performance.<br>
 I have a passion for learning and motivate others in a way that's as possible.<br></p>
 <p align="justify">
 	<ul type="A">
@@ -69,7 +69,7 @@ I have a passion for learning and motivate others in a way that's as possible.<b
 
 
 <p align='center'>
-<a href="https://dev.to/waylonwalker"><img height="50" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
+<a href="http://josejmosquera.com/"><img height="60" src="https://github.com/JoseJulianMosqueraFuli/JoseJulianMosqueraFuli/blob/main/images/dotcom.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/JoseJMosqueraF"><img height="50" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/jose-julian-mosquera-fuli/"><img height="50" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
