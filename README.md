@@ -8,8 +8,8 @@
 
 ---
 
-<p align="justify">I'm from Colombia, now I'm working for <a href=https://munitienda.com/> Muni Tienda</a>
-<img width="40" align='center' src="https://github.com/JoseJulianMosqueraFuli/JoseJulianMosqueraFuli/blob/main/images/MuniLogoPayments.png"></a>.<br>A Software engineer passionate about Data Science 📊. I like build things, and exploring scalability problems and improving efficiency and performance.<br>
+<p align="justify">I'm from Colombia 🇨🇴
+	
 I have a passion for learning and motivate others in a way that's as possible.<br></p>
 <p align="justify">
 	<ul type="A">
