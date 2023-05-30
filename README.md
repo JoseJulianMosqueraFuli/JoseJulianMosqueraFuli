@@ -3,7 +3,7 @@
 
 ---
 
-<h3 align="center" >👋Hi there,<br>My name is <a href="https://www.linkedin.com/in/jose-julian-mosquera-fuli/">Jose Julian Mosquera</a></h3>
+<h3 align="center" >👋Hi there,<br>My name is <a href="https://www.linkedin.com/in/josejulianmosquera/">Jose Julian Mosquera</a></h3>
 
 
 ---
