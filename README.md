@@ -21,7 +21,7 @@ I have a passion for learning and motivate others in a way that's as possible.<b
 			<ul>
 				<li> Python, Typescript, Go(Golang) and PHP.
 				<li>AWS and Snowflake.
-    				<li>Docker, Django, Laravel and Nextjs.
+    				<li>Docker, Django, Flask, FastAPI, Nextjs and Laravel.
 				<li>MySQL
         		</ul>
         	</li>
