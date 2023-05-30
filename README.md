@@ -19,7 +19,7 @@ I have a passion for learning and motivate others in a way that's as possible.<b
         	<li>🔭 I’m currently working on:
  	    Backend Programing
 			<ul>
-				<li> Python, PHP and Typescript.
+				<li> Python, Typescript, Go(Golang) and PHP.
 				<li>AWS and Snowflake.
     				<li>Docker, Django, Laravel and Nextjs.
 				<li>MySQL
