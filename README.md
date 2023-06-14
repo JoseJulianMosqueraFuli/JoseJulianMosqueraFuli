@@ -10,14 +10,14 @@
 
 <p align="justify">I'm from Colombia 🇨🇴
 	
-I have a passion for learning and motivate others in a way that's as possible.<br></p>
+I have a passion for learning and motivating others in a way that's as possible.<br></p>
 <p align="justify">
 	<ul type="A">
         	<li>🎓 I graduated from Universidad del Cauca - Electronic Engineering Department.</li>
         	<li>🥸Fun fact:</b> I believe in the <b>Chaos theory</b>: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.</li>
         	<li>💬 Talk to me about Rugby, Weightlifting, Powerlifting, Memes, Anime, Movies 🎥, Assassin's Creed, GTA V, Red Dead Redemption, God of War 🎮, Amateur Photography 📸.
         	<li>🔭 I’m currently working on:
- 	    Backend Programing
+ 	    Backend Programming
 			<ul>
 				<li> Python, Typescript, Go(Golang) and PHP.
 				<li>AWS and Snowflake.
@@ -46,7 +46,7 @@ I have a passion for learning and motivate others in a way that's as possible.<b
 <p align='center'>
 <a href="http://josejmosquera.com/"><img height="60" src="https://github.com/JoseJulianMosqueraFuli/JoseJulianMosqueraFuli/blob/main/images/dotcom.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/JoseJMosqueraF"><img height="50" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/jose-julian-mosquera-fuli/"><img height="50" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/josejulianmosquera/"><img height="50" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
 ---
