@@ -37,6 +37,7 @@ I have a passion for learning and motivate others in a way that's as possible.<b
 
 ### Contact me
 
+<li> 📫 How to reach me: josejmfu@gmail.com
 <p>
   <img width="100" align='left' src="https://github.com/JoseJulianMosqueraFuli/JoseJulianMosqueraFuli/blob/main/images/gif/cat-typing.gif">
 </p>
