@@ -46,7 +46,7 @@ I have a passion for learning and motivating others in a way that's as possible.
 <p align='center'>
 <a href="http://josejmosquera.com/"><img height="60" src="https://github.com/JoseJulianMosqueraFuli/JoseJulianMosqueraFuli/blob/main/images/dotcom.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/JoseJMosqueraF"><img height="50" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="www.linkedin.com/in/josejulianmosquerafuli/"><img height="50" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://linkedin.com/in/josejulianmosquerafuli/"><img height="50" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
 ---
