@@ -27,13 +27,17 @@ I have a passion for learning and motivating others in a way that's as possible.
         	</li>
 	</ul>
 </p>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoseJulianMosqueraFuli&show_icons=true&locale=en&layout=compact" alt="JoseJulian" />
+	
   ---
 
 <p>
   <img width="50" align='left' src="https://github.com/JoseJulianMosqueraFuli/JoseJulianMosqueraFuli/blob/main/images/gif/up-wilderness.gif">
-</p>
+</p><br><br>
 
+
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=JoseJulianMosqueraFuli&theme=dark&hide_border=true)](https://git.io/streak-stats)
+</p>
 
 ### Contact me
 
@@ -48,6 +52,8 @@ I have a passion for learning and motivating others in a way that's as possible.
 <a href="https://twitter.com/JoseJMosqueraF"><img height="50" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/josejulianmosquerafuli//"><img height="50" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JoseJulianMosqueraFuli&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
 ---
 
