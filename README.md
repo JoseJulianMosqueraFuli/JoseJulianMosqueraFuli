@@ -3,7 +3,7 @@
 
 ---
 
-<h3 align="center" >👋Hi there,<br>My name is <a href="www.linkedin.com/in/josejulianmosquerafuli/">Jose Julian Mosquera Fuli</a></h3>
+<h3 align="center" >👋Hi there,<br>My name is <a href="https://www.linkedin.com/in/josejulianmosquerafuli/">Jose Julian Mosquera Fuli</a></h3>
 
 
 ---
@@ -50,7 +50,7 @@ I have a passion for learning and motivating others in a way that's as possible.
 <p align='center'>
 <a href="http://josejmosquera.com/"><img height="60" src="https://github.com/JoseJulianMosqueraFuli/JoseJulianMosqueraFuli/blob/main/images/dotcom.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/JoseJMosqueraF"><img height="50" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/josejulianmosquerafuli//"><img height="50" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/josejulianmosquerafuli/"><img height="50" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JoseJulianMosqueraFuli&label=Profile%20views&color=0e75b6&style=flat"/> </p>
