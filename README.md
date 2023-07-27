@@ -19,7 +19,7 @@ I have a passion for learning and motivating others in a way that's as possible.
  	    Backend Programming
 			<ul>
 				<li> Python, Typescript, Go(Golang) and PHP.
-				<li>AWS and Snowflake.
+				<li>AWS, Azure, GCP and Snowflake.
     				<li>Docker, Django, Flask, FastAPI, Nestjs and Laravel.
 				<li>MySQL, PostgreSQL
         		</ul>
