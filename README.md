@@ -1,20 +1,21 @@
-<h1 align="left"><img height="50" width="75" align='left'  src="https://github.com/JoseJulianMosqueraFuli/JoseJulianMosqueraFuli/blob/main/images/gif/github.gif"></a> Hello, everyone!👋<br></h1>
+<h1 align="left"><img height="50" width="60" align='left'  src="https://github.com/JoseJulianMosqueraFuli/JoseJulianMosqueraFuli/blob/main/images/gif/github.gif"></a>👋 Hello, everyone!<br></h1>
 <h3 align="left"><b>My name is <a href="https://www.linkedin.com/in/josejulianmosquerafuli/">Jose Julian Mosquera Fuli</a></b><br></h3>
-<p align="left">  I'm a Software Engineer, a specialist in Backend Programming, and have a keen interest in the world of Data/Machine Learning.</p>
+<h5 align="left">  I'm a Software Engineer, a specialist in Backend Programming, and have a keen interest in the world of Data/Machine Learning</h5>
 
 ---
 
-<h2> <img  width="75" align='left' src="https://github.com/JoseJulianMosqueraFuli/JoseJulianMosqueraFuli/blob/main/images/gif/about.gif">&nbsp;About Me</h2>
-<p align="center"><p>My journey in engineering has been fueled by unending curiosity, always seeking new challenges and opportunities to grow. Whether it's tinkering with code or exploring cutting-edge solutions, I'm driven by the excitement of learning and innovating.
+<h2> <img  width="60" align='left' src="https://github.com/JoseJulianMosqueraFuli/JoseJulianMosqueraFuli/blob/main/images/gif/about.gif">&nbsp;About Me</h2>
+<p align="left"><p>My engineering journey is fueled by curiosity, always seeking new challenges and growth opportunities. From tinkering with code to exploring innovative solutions, I'm driven by the excitement of learning and innovating 😄.
 <p align="center">
     <ul style="list-style-type: upper-alpha;">
-        <li>🎓 I graduated from Universidad del Cauca - Electronic Engineering Department.</li>
-        <li>🥸 Fun fact: I believe in the Chaos theory. Even in unpredictable environments with seemingly random oddities and irregularities, there lies a predictable and sensible pattern not seen initially.</li>
+        <li>🎓 <b>I graduated from Universidad del Cauca - Electronic Engineering Department</b></li>
+        <li>🥸 <b>Fun fact</b>: I believe in the Chaos theory. Even in unpredictable environments with seemingly random oddities and irregularities, there lies a predictable and sensible pattern not seen initially</li>
     </ul>
-    
+</p>
+
 ---
 
-<h2><img width="75" align='left' src="https://github.com/JoseJulianMosqueraFuli/JoseJulianMosqueraFuli/blob/main/images/gif/up-wilderness.gif">&nbsp; Technical Skills  </h2>
+<h2><img width="60" align='left' src="https://github.com/JoseJulianMosqueraFuli/JoseJulianMosqueraFuli/blob/main/images/gif/up-wilderness.gif">&nbsp; Technical Skills  </h2>
 <p>
     I have honed my skills in a diverse range of technologies and tools, allowing me to tackle various projects and contribute effectively to teams:
 </p>
@@ -26,19 +27,19 @@
 </ul>
 <p>
   <a href="https://git.io/streak-stats" target="_blank">
-    <img src="https://streak-stats.demolab.com/?user=JoseJulianMosqueraFuli&theme=dark&hide_border=true" alt="GitHub Streak" width="350" />
+    <img src="https://streak-stats.demolab.com/?user=JoseJulianMosqueraFuli&theme=dark&hide_border=true" alt="GitHub Streak" width="400" />
   </a>
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoseJulianMosqueraFuli&show_icons=true&locale=en&layout=compact" alt="JoseJulian" width="350" /><a href="https://git.io/streak-stats" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoseJulianMosqueraFuli&show_icons=true&locale=en&layout=compact" alt="JoseJulian" width="400" /><a href="https://git.io/streak-stats" target="_blank">
 </p>
 
 ---
 
-<h2><img width="75" align='left' src="https://github.com/JoseJulianMosqueraFuli/JoseJulianMosqueraFuli/blob/main/images/gif/cat-typing.gif">&nbsp; Contact me</h2>
+<h2><img width="60" align='left' src="https://github.com/JoseJulianMosqueraFuli/JoseJulianMosqueraFuli/blob/main/images/gif/cat-typing.gif">&nbsp; Contact me</h2>
 
-<li>📫 How to reach me: <a href="mailto:josejmfu@gmail.com">josejmfu@gmail.com</a></li>
+<p><li>📫 <b>How to reach me </b>: <a href="mailto:josejmfu@gmail.com">josejmfu@gmail.com</a></li></p>
 
 <p align='left'>
 <a href="http://josejmosquera.com/"><img height="60" src="https://github.com/JoseJulianMosqueraFuli/JoseJulianMosqueraFuli/blob/main/images/dotcom.png"></a>&nbsp;&nbsp;
