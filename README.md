@@ -1,8 +1,8 @@
 #  👋 Hello, everyone!<br></h1>
-## <img height="30" width="60" align='left'  src="https://github.com/JoseJulianMosqueraFuli/JoseJulianMosqueraFuli/blob/main/images/gif/github.gif">&nbsp; My name is <a href="https://www.linkedin.com/in/josejulianmosquerafuli/">Jose Julian Mosquera Fuli</a></b><br></h3>
+## <img height="30" width="40" align='left'  src="https://github.com/JoseJulianMosqueraFuli/JoseJulianMosqueraFuli/blob/main/images/gif/github.gif">&nbsp; My name is <a href="https://www.linkedin.com/in/josejulianmosquerafuli/">Jose Julian Mosquera Fuli</a></b><br></h3>
 
 
-## <img  width="60" align='left' src="https://github.com/JoseJulianMosqueraFuli/JoseJulianMosqueraFuli/blob/main/images/gif/about.gif">&nbsp;About Me
+## <img  width="40" align='left' src="https://github.com/JoseJulianMosqueraFuli/JoseJulianMosqueraFuli/blob/main/images/gif/about.gif">&nbsp;About Me
 My engineering journey is fueled by curiosity, always seeking new challenges and growth opportunities. From tinkering with code to exploring innovative solutions, I'm driven by the excitement of learning and innovating 😄.
 <p align="center">
     <ul style="list-style-type: upper-alpha;">
@@ -12,7 +12,7 @@ My engineering journey is fueled by curiosity, always seeking new challenges and
 </p>
 
 
-## <img width="60" align='left' src="https://github.com/JoseJulianMosqueraFuli/JoseJulianMosqueraFuli/blob/main/images/gif/up-wilderness.gif">&nbsp; Technical Skills 
+## <img width="40" align='left' src="https://github.com/JoseJulianMosqueraFuli/JoseJulianMosqueraFuli/blob/main/images/gif/up-wilderness.gif">&nbsp; Technical Skills 
 <p>
     I have honed my skills in a diverse range of technologies and tools, allowing me to tackle various projects and contribute effectively to teams:
 </p>
@@ -32,7 +32,7 @@ My engineering journey is fueled by curiosity, always seeking new challenges and
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoseJulianMosqueraFuli&show_icons=true&locale=en&layout=compact" alt="JoseJulian" width="450" /><a href="https://git.io/streak-stats" target="_blank">
 </p>
 
-## <img width="60" align='left' src="https://github.com/JoseJulianMosqueraFuli/JoseJulianMosqueraFuli/blob/main/images/gif/cat-typing.gif">&nbsp; Contact me
+## <img width="40" align='left' src="https://github.com/JoseJulianMosqueraFuli/JoseJulianMosqueraFuli/blob/main/images/gif/cat-typing.gif">&nbsp; Contact me
 
 <p><li>📫 <b>How to reach me </b>: <a href="mailto:josejmfu@gmail.com">josejmfu@gmail.com</a></li></p>
 
