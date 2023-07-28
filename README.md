@@ -1,7 +1,6 @@
 
-<a href="https://github.com/JoseJulianMosqueraFuli/JoseJulianMosqueraFuli/blob/main/images/learn-ligth.png"> <img height="auto" width="100" align='right'  src="https://github.com/JoseJulianMosqueraFuli/JoseJulianMosqueraFuli/blob/main/images/learn-ligth.png"></a>
+<a href="https://github.com/JoseJulianMosqueraFuli/JoseJulianMosqueraFuli/blob/main/images/gif/github.gif"> <img height="auto" width="100" align='right'  src="https://github.com/JoseJulianMosqueraFuli/JoseJulianMosqueraFuli/blob/main/images/gif/github.gif"></a>
 
----
 
 <h3 align="center" >👋Hi there,<br>My name is <a href="https://www.linkedin.com/in/josejulianmosquerafuli/">Jose Julian Mosquera Fuli</a></h3>
 
