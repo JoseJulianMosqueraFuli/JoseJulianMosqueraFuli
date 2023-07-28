@@ -1,7 +1,4 @@
-
-
-
-<h1 align="left"><img height="auto" width="80" align='left'  src="https://github.com/JoseJulianMosqueraFuli/JoseJulianMosqueraFuli/blob/main/images/gif/github.gif"></a> Hello, everyone!👋<br></h1>
+<h1 align="left"><img height="auto" width="75" align='left'  src="https://github.com/JoseJulianMosqueraFuli/JoseJulianMosqueraFuli/blob/main/images/gif/github.gif"></a> Hello, everyone!👋<br></h1>
 <h3 align="left"><b>My name is <a href="https://www.linkedin.com/in/josejulianmosquerafuli/">Jose Julian Mosquera Fuli</a></b><br></h3>
 <p align="left">  I'm a Software Engineer, a specialist in Backend Programming, and have a keen interest in the world of Data/Machine Learning.</p>
 
@@ -34,18 +31,9 @@
   </a>
 </p>
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoseJulianMosqueraFuli&show_icons=true&locale=en&layout=compact" alt="JoseJulian" />
-	
-
-
- [![GitHub Streak](https://streak-stats.demolab.com/?user=JoseJulianMosqueraFuli&theme=dark&hide_border=true)](https://git.io/streak-stats)
-</p>
-
 <h2><img width="75" align='left' src="https://github.com/JoseJulianMosqueraFuli/JoseJulianMosqueraFuli/blob/main/images/gif/cat-typing.gif">&nbsp; Contact me</h2>
 
 <li>📫 How to reach me: <a href="mailto:josejmfu@gmail.com">josejmfu@gmail.com</a></li>
- 
 
 <p align='left'>
 <a href="http://josejmosquera.com/"><img height="60" src="https://github.com/JoseJulianMosqueraFuli/JoseJulianMosqueraFuli/blob/main/images/dotcom.png"></a>&nbsp;&nbsp;
@@ -56,4 +44,3 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JoseJulianMosqueraFuli&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
 ---
-
