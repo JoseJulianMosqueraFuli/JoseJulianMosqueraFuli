@@ -38,7 +38,7 @@ My engineering journey is fueled by curiosity, always seeking new challenges and
 
   
 <p align='left'>
-  <li>🌐🐦💼 <b>social media: </b>:
+  <li>🌐 <b>social media: </b>:
 <a href="http://josejmosquera.com/"><img height="30" src="https://github.com/JoseJulianMosqueraFuli/JoseJulianMosqueraFuli/blob/main/images/dotcom.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/JoseJMosqueraF"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/josejulianmosquerafuli/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
