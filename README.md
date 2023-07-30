@@ -29,7 +29,7 @@ My engineering journey is fueled by curiosity, always seeking new challenges and
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoseJulianMosqueraFuli&show_icons=true&locale=en&layout=compact" alt="JoseJulian" width="450" /><a href="https://git.io/streak-stats" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoseJulianMosqueraFuli&theme=dark&&show_icons=true&locale=en&layout=compact" alt="JoseJulian" width="450" /><a href="https://git.io/streak-stats" target="_blank">
 </p>
 
 ## <img width="40" align='left' src="https://github.com/JoseJulianMosqueraFuli/JoseJulianMosqueraFuli/blob/main/images/gif/cat-typing.gif">&nbsp; Contact me
