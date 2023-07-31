@@ -40,7 +40,7 @@
 </p>
 
 <h3 align="left">
-  <a href="https://github.com/JoseJulianMosqueraFuli?tab=repositories" title="Show Repositories">Show Repositories 📖</a>
+  <a href="https://github.com/JoseJulianMosqueraFuli?tab=repositories" title="Show Repositories">Show Repositories 📝📖</a>
 </h3>
 
 
