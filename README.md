@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=35&pause=1000&color=CDCDCD&center=true&vCenter=true&width=435&lines=%F0%9F%91%90+Hi%2C+everyone!;You're+welcome+%F0%9F%91%8B" alt="Typing SVG" /></a>    <br></h1>
 <h2 align="center">I'm <a href="https://www.linkedin.com/in/josejulianmosquerafuli/">Jose Julian Mosquera Fuli</a></b></h2>
 
-<h2 align="left">💻 About Me:</h2>
+<h2 align="left">💻 About Me</h2>
     
 <p>
     My engineering journey is fueled by curiosity, always seeking new challenges and growth opportunities. From tinkering with code to exploring innovative solutions, I'm driven by the excitement of learning and innovating 😄.</p>
@@ -44,13 +44,13 @@
 </h3>
 
 
-<h2 align="left">✍️ Contact me :</h2>
+<h2 align="left">✍️ Contact me</h2>
 
 <p><li>📫 <b>How to reach me </b>: <a href="mailto:josejmfu@gmail.com">josejmfu@gmail.com</a></li></p>
 
   
 <p align='left'>
-  <li>🌐 <b>social media: </b>:
+  <li>🌐 <b>social media</b>:
 <a href="http://josejmosquera.com/"><img height="30" src="https://github.com/JoseJulianMosqueraFuli/JoseJulianMosqueraFuli/blob/main/images/dotcom.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/JoseJMosqueraF"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/josejulianmosquerafuli/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
