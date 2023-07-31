@@ -1,5 +1,5 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+everyone!+👋;Welcome+to+my+Profile+👋&center=true&color=CDCDCDFF&size=30"" alt="Typing SVG" /></a>
-<br></h1>
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=35&pause=1000&color=CDCDCD&center=true&vCenter=true&width=435&lines=%F0%9F%91%90+Hi%2C+everyone!;You're+welcome+%F0%9F%91%8B" alt="Typing SVG" /></a>    <br></h1>
 <h2 align="center">I'm <a href="https://www.linkedin.com/in/josejulianmosquerafuli/">Jose Julian Mosquera Fuli</a></b></h2>
 
 <h2 align="left">💻 About Me:</h2>
