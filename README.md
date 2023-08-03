@@ -20,7 +20,7 @@
 </p>
 <div aling="center">
     <ul>
-        <li><b>Programming Languages</b>: Python, Typescript, Go (Golang), PHP.</li>
+        <li><b>Programming Languages</b>: Python,Javascript, Typescript, Go (Golang), PHP.</li>
         <li><b>Cloud Platforms</b>: AWS, Azure, GCP, and Snowflake.</li>
         <li><b>Frameworks</b>: Docker, Django, Flask, FastAPI, Nestjs, and Laravel.</li>
         <li><b>Databases</b>: MySQL, PostgreSQL, SQL-Server.</li>
