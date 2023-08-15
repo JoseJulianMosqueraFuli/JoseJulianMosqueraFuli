@@ -31,10 +31,10 @@
 <p align="center">
   <div style="display: flex; justify-content: center; align-items: center;">
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source" style="margin-right: 10px;">
-      <img src="https://streak-stats.demolab.com/?user=JoseJulianMosqueraFuli&theme=dark&hide_border=true" width="490"  alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com/?user=JoseJulianMosqueraFuli&theme=dark&hide_border=true" width="390"  alt="GitHub Streak" />
     </a>&nbsp
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoseJulianMosqueraFuli&theme=dark&show_icons=true&locale=en&layout=compact&hide_border=true&langs_count=6" width="350"  alt="JoseJulian" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoseJulianMosqueraFuli&theme=dark&show_icons=true&locale=en&layout=compact&hide_border=true&langs_count=6" width="280"  alt="JoseJulian" />
     </a>
   </div>
 
