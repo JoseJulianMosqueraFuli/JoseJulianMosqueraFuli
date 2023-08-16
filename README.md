@@ -34,7 +34,7 @@
       <img src="https://streak-stats.demolab.com/?user=JoseJulianMosqueraFuli&theme=dark&hide_border=true" width="390"  alt="GitHub Streak" />
     </a>&nbsp
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoseJulianMosqueraFuli&theme=dark&show_icons=true&locale=en&layout=compact&hide_border=true&langs_count=6" width="280"  alt="JoseJulian" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoseJulianMosqueraFuli&theme=dark&show_icons=true&layout=compact&hide_border=true&langs_count=6" width="280"  alt="JoseJulian" />
     </a>
   </div>
 
