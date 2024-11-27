@@ -4,7 +4,7 @@
 
 <h2 align="center">💻 <b>About Me</b> 💻</h2>
   <div align="center">
-    <p>🔶 Hi, I'm <a href="https://www.linkedin.com/in/josejulianmosquerafuli/">Jose Julian Mosquera Fuli</a>, a dedicated engineer with a strong aptitude for coding and innovative problem-solving.</p>
+    <p>🔶 Hi, I'm <a href="https://www.linkedin.com/in/josejulianmosquera/">Jose Julian Mosquera Fuli</a>, a dedicated engineer with a strong aptitude for coding and innovative problem-solving.</p>
     <p>🎓 I earned my Electronic Engineering degree from University of Cauca.</p>
     <!-- <p>🚀 I thrive in unpredictable environments, believing in the Chaos theory, which teaches us that even in apparent chaos, there's an underlying order waiting to be discovered.</p> -->
   </div>
