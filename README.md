@@ -79,7 +79,7 @@
 <h2 align="center">🌐 <b>Social Media</b> 🌐</h2>
   <p align="center">
     <a href="https://twitter.com/JoseJMosqueraF"><img height="25" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true" alt="Twitter"></a>
-    <a href="https://www.linkedin.com/in/josejulianmosquerafuli/"><img height="25" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true" alt="LinkedIn"></a>
+    <a href="https://www.linkedin.com/in/josejulianmosquera/"><img height="25" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true" alt="LinkedIn"></a>
   </p>
 </h2>
 
