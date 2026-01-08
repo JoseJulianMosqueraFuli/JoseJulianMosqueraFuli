@@ -50,7 +50,7 @@
   </tr>
   <tr>
     <td>🎯</td>
-    <td>Currently deep learning: Kubernetes (EKS) & NVIDIA certifications</td>
+    <td>Currently deep learning: Kubernetes (EKS) & NVIDIA </td>
   </tr>
   <tr>
     <td>🌍</td>
