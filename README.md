@@ -41,8 +41,8 @@
   <tr>
     <td>🏢</td>
     <td>
-      <strong>Cloud & MLOps Engineer</strong> at
-      <a href="https://bextsa.com">Bextechnology</a>
+      <strong>AWS Cloud & MLOps Engineer</strong> at
+      <a href="https://thomasgregandsons.com/nuestra-presencia-en-el-mundo/">TPS</a>
     </td>
   </tr>
   <tr>
