@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td>☁️</td>
-    <td><strong>6x AWS Certified</strong> | ML Specialty & AI Practitioner</td>
+    <td><strong>6x AWS Certified</strong> | ML Specialty & Solutions Architect & DevOps </td>
   </tr>
   <tr>
     <td>🎯</td>
