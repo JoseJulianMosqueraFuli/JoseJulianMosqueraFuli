@@ -83,6 +83,70 @@
 
 ---
 
+<h2 align="center">🏆 Featured Projects</h2>
+
+<table align="center">
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Tech</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/JoseJulianMosqueraFuli/E2E-EKS-GitOps"><strong>E2E-EKS-GitOps</strong></a></td>
+      <td>Full MLOps platform on EKS with GitOps</td>
+      <td>
+        <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
+        <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="ArgoCD" />
+        <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow" />
+        <img src="https://img.shields.io/badge/Kubeflow-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubeflow" />
+        <img src="https://img.shields.io/badge/Istio-466BB0?style=flat-square&logo=istio&logoColor=white" alt="Istio" />
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/JoseJulianMosqueraFuli/ml-recommendation-systems"><strong>ml-recommendation-systems</strong></a></td>
+      <td>Neural Collaborative Filtering + Amazon Personalize + A/B Testing</td>
+      <td>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/CloudFormation-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="CloudFormation" />
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/JoseJulianMosqueraFuli/GitHubActions-EKS"><strong>GitHubActions-EKS</strong></a></td>
+      <td>CI/CD to EKS with auto-scaling</td>
+      <td>
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+        <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/JoseJulianMosqueraFuli/ml-lambda-deployment"><strong>ml-lambda-deployment</strong></a></td>
+      <td>Serverless ML inference with property-based testing</td>
+      <td>
+        <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" alt="Lambda" />
+        <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
+        <img src="https://img.shields.io/badge/API_Gateway-FF9900?style=flat-square&logo=amazonapigateway&logoColor=white" alt="API Gateway" />
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/JoseJulianMosqueraFuli/kiwibot-by-xero-chatgpt-test"><strong>kiwibot-by-xero-chatgpt-test</strong></a></td>
+      <td>AI-powered support system with multi-LLM orchestration</td>
+      <td>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+        <img src="https://img.shields.io/badge/AWS_Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="Bedrock" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <h4 align="center">MLOps & AI</h4>
@@ -102,6 +166,7 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/AWS_CDK-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS CDK" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
 </p>
