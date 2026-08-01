@@ -47,7 +47,7 @@
   <tr>
     <td>📅</td>
     <td>
-      <strong>5+ years</strong> of experience (3 Software Engineering + 2 Cloud Engineering)
+      <strong>6+ years</strong> of experience (3 Software Engineering + 3 Cloud Engineering)
     </td>
   </tr>
   <tr>
