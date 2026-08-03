@@ -42,7 +42,7 @@
   </tr>
   <tr>
     <td>🎓</td>
-    <td>Electronic Engineering - University of Cauca</td>
+    <td>MSc(c) Applied Artificial Intelligence - Icesi University</td>
   </tr>
   <tr>
     <td>📅</td>
