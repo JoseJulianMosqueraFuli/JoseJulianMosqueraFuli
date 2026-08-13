@@ -70,7 +70,7 @@
 
 <p align="center">
   <a href="https://github.com/JoseJulianMosqueraFuli/genai-agents"><img src="https://img.shields.io/badge/Agentic_AI-412991?style=flat-square&logo=openai&logoColor=white" alt="Agentic AI" /></a>
-  <a href="https://modelcontextprotocol.io"><img src="https://img.shields.io/badge/MCP-6C5CE7?style=flat-square&logo=googlecloud&logoColor=white" alt="MCP" /></a>
+  <a href="https://modelcontextprotocol.io"><img src="https://img.shields.io/badge/MCP-6C5CE7?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="MCP" /></a>
   <img src="https://img.shields.io/badge/MLOps-FF6F00?style=flat-square&logo=mlflow&logoColor=white" alt="MLOps" />
   <img src="https://img.shields.io/badge/LLMOps-412991?style=flat-square&logo=openai&logoColor=white" alt="LLMOps" />
   <img src="https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="Bedrock" />
