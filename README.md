@@ -1,13 +1,13 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg"
     ><img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Jose+%F0%9F%91%8B;Cloud+%26+MLOps+Engineer;6x+AWS+Certified+%7C+GenAI"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Jose+%F0%9F%91%8B;Cloud+%26+MLOps+Engineer;Building+Agentic+AI+on+AWS;6x+AWS+Certified+%7C+GenAI"
       alt="Typing SVG"
   /></a>
 </h1>
 
 <p align="center">
-  <em>Building production-ready AI infrastructure on AWS</em>
+  <em>Building autonomous agents and production-ready AI infrastructure on AWS</em>
 </p>
 
 <p align="center">
@@ -28,8 +28,8 @@
 <h2 align="center">💼 About Me</h2>
 
 <p align="center">
-  <strong>Cloud & MLOps Engineer</strong> building production-ready AI infrastructure.<br/>
-  From model training to deployment at scale.
+  <strong>Cloud & MLOps Engineer</strong> building autonomous agents and production-ready AI infrastructure.<br/>
+  From model training to agents running in production.
 </p>
 
 <table align="center" border="0">
@@ -56,7 +56,7 @@
   </tr>
   <tr>
     <td>🎯</td>
-    <td><strong>Focus:</strong> MLOps, LLMOps, Kubernetes (EKS), GPU Infrastructure</td>
+    <td><strong>Focus:</strong> Agentic AI, MCP, MLOps, LLMOps, Kubernetes (EKS), GPU Infrastructure</td>
   </tr>
   <tr>
     <td>🌍</td>
@@ -69,6 +69,8 @@
 <h2 align="center">🚀 Current Focus</h2>
 
 <p align="center">
+  <a href="https://github.com/JoseJulianMosqueraFuli/genai-agents"><img src="https://img.shields.io/badge/Agentic_AI-412991?style=flat-square&logo=openai&logoColor=white" alt="Agentic AI" /></a>
+  <a href="https://modelcontextprotocol.io"><img src="https://img.shields.io/badge/MCP-6C5CE7?style=flat-square&logo=googlecloud&logoColor=white" alt="MCP" /></a>
   <img src="https://img.shields.io/badge/MLOps-FF6F00?style=flat-square&logo=mlflow&logoColor=white" alt="MLOps" />
   <img src="https://img.shields.io/badge/LLMOps-412991?style=flat-square&logo=openai&logoColor=white" alt="LLMOps" />
   <img src="https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="Bedrock" />
@@ -78,76 +80,69 @@
 </p>
 
 <p align="center">
-  Building end-to-end ML pipelines • Deploying LLMs at scale • Optimizing AI infrastructure costs
+  Building autonomous agents for cloud & dev workflows • Deploying LLMs and agentic AI at scale • Optimizing AI infrastructure costs
 </p>
 
 ---
 
-<h2 align="center">🏆 Featured Projects</h2>
+<h2 align="center">� Featured Projects</h2>
 
 <table align="center">
-  <thead>
-    <tr>
-      <th>Project</th>
-      <th>Description</th>
-      <th>Tech</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/JoseJulianMosqueraFuli/E2E-EKS-GitOps"><strong>E2E-EKS-GitOps</strong></a></td>
-      <td>Full MLOps platform on EKS with GitOps</td>
-      <td>
-        <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
-        <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="ArgoCD" />
-        <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow" />
-        <img src="https://img.shields.io/badge/Kubeflow-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubeflow" />
-        <img src="https://img.shields.io/badge/Istio-466BB0?style=flat-square&logo=istio&logoColor=white" alt="Istio" />
-      </td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/JoseJulianMosqueraFuli/ml-recommendation-systems"><strong>ml-recommendation-systems</strong></a></td>
-      <td>Neural Collaborative Filtering + Amazon Personalize + A/B Testing</td>
-      <td>
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-        <img src="https://img.shields.io/badge/CloudFormation-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="CloudFormation" />
-      </td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/JoseJulianMosqueraFuli/GitHubActions-EKS"><strong>GitHubActions-EKS</strong></a></td>
-      <td>CI/CD to EKS with auto-scaling</td>
-      <td>
-        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-        <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
-        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-      </td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/JoseJulianMosqueraFuli/ml-lambda-deployment"><strong>ml-lambda-deployment</strong></a></td>
-      <td>Serverless ML inference with property-based testing</td>
-      <td>
-        <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" alt="Lambda" />
-        <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
-        <img src="https://img.shields.io/badge/API_Gateway-FF9900?style=flat-square&logo=amazonapigateway&logoColor=white" alt="API Gateway" />
-      </td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/JoseJulianMosqueraFuli/kiwibot-by-xero-chatgpt-test"><strong>kiwibot-by-xero-chatgpt-test</strong></a></td>
-      <td>AI-powered support system with multi-LLM orchestration</td>
-      <td>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
-        <img src="https://img.shields.io/badge/AWS_Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="Bedrock" />
-      </td>
-    </tr>
-  </tbody>
+  <tr>
+    <th align="left">Project</th>
+    <th align="left">What it does</th>
+    <th align="left">Stack</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/JoseJulianMosqueraFuli/genai-agents"><strong>genai-agents</strong></a>
+    </td>
+    <td>
+      Production-grade GenAI agent platform: RAG pipeline, multi-provider LLMs,
+      input/output guardrails (prompt-injection defense, PII redaction),
+      faithfulness &amp; relevance eval, and per-request cost tracking.
+    </td>
+    <td>FastAPI · LangGraph · Bedrock · OpenAI · Terraform · ECS Fargate</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/JoseJulianMosqueraFuli/E2E-EKS-GitOps"><strong>E2E-EKS-GitOps</strong></a>
+    </td>
+    <td>
+      End-to-end MLOps platform on EKS: infrastructure as code, GitOps delivery,
+      model serving and full observability.
+    </td>
+    <td>Terraform · EKS · ArgoCD · KServe · MLflow · Prometheus · Grafana</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/JoseJulianMosqueraFuli/apolo-11"><strong>apolo-11</strong></a>
+    </td>
+    <td>
+      Telemetry simulation and monitoring system: generates mission events,
+      streams them over a message broker, and surfaces them in TUI + web dashboards.
+    </td>
+    <td>Python · FastAPI · RabbitMQ · Prometheus · Grafana · Kubernetes</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/JoseJulianMosqueraFuli/CNNLngSe"><strong>CNNLngSe</strong></a>
+    </td>
+    <td>
+      Sign language (ASL) classifier with transfer learning, data augmentation,
+      property-based testing and edge export.
+    </td>
+    <td>TensorFlow · Keras · MobileNetV3 · Docker · TFLite</td>
+  </tr>
 </table>
+
+<p align="center">
+  <a href="https://github.com/JoseJulianMosqueraFuli?tab=repositories">→ Browse all repositories</a>
+</p>
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="center">���️ Tech Stack</h2>
 
 <h4 align="center">MLOps & AI</h4>
 <p align="center">
@@ -155,6 +150,7 @@
   <img src="https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Bedrock" />
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
@@ -166,7 +162,6 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/AWS_CDK-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS CDK" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
 </p>
