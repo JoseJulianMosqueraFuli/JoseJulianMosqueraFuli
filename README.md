@@ -1,13 +1,13 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg"
     ><img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Jose+%F0%9F%91%8B;Cloud+%26+MLOps+Engineer;Building+Agentic+AI+on+AWS;6x+AWS+Certified+%7C+GenAI"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Jose+%F0%9F%91%8B;Cloud+Infrastructure+Architect;AWS+AI+Platforms+%7C+MLOps+%7C+AgentOps;6x+AWS+Certified"
       alt="Typing SVG"
   /></a>
 </h1>
 
 <p align="center">
-  <em>Building autonomous agents and production-ready AI infrastructure on AWS</em>
+  <em>Cloud Infrastructure Architect focused on AWS AI platforms, MLOps, and agentic systems</em>
 </p>
 
 <p align="center">
@@ -28,15 +28,15 @@
 <h2 align="center">💼 About Me</h2>
 
 <p align="center">
-  <strong>Cloud & MLOps Engineer</strong> building autonomous agents and production-ready AI infrastructure.<br/>
-  From model training to agents running in production.
+  <strong>Cloud Infrastructure Architect</strong> focused on AWS AI platforms, MLOps, and agentic systems.<br/>
+  I build cloud-native infrastructure and workflows that help teams operate AI workloads reliably.
 </p>
 
 <table align="center" border="0">
   <tr>
     <td>🏢</td>
     <td>
-      <strong>Senior AWS Cloud & MLOps Engineer</strong> at
+      <strong>Cloud Infrastructure Architect</strong> at
       <a href="https://thomasgregandsons.com/nuestra-presencia-en-el-mundo/">TPS</a>
     </td>
   </tr>
@@ -45,18 +45,12 @@
     <td>MSc(c) Applied Artificial Intelligence - Icesi University</td>
   </tr>
   <tr>
-    <td>📅</td>
-    <td>
-      <strong>6+ years</strong> of experience (3 Software Engineering + 3 Cloud Engineering)
-    </td>
-  </tr>
-  <tr>
     <td>☁️</td>
-    <td><strong>6x AWS Certified</strong> | ML Specialty & Solutions Architect & DevOps </td>
+    <td><strong>6x AWS Certified</strong> | Solutions Architect Associate, ML Specialty, ML Engineer Associate, Developer Associate</td>
   </tr>
   <tr>
     <td>🎯</td>
-    <td><strong>Focus:</strong> Agentic AI, MCP, MLOps, LLMOps, Kubernetes (EKS), GPU Infrastructure</td>
+    <td><strong>Focus:</strong> AI Platform Engineering, MLOps/LLMOps, AgentOps, AWS, Kubernetes (EKS)</td>
   </tr>
   <tr>
     <td>🌍</td>
@@ -66,21 +60,31 @@
 
 ---
 
-<h2 align="center">🚀 Current Focus</h2>
+<h2 align="center">📈 Selected Impact</h2>
+
+<ul>
+  <li>Reduced resource provisioning time by <strong>28%</strong> for AI/ML workloads using Terraform.</li>
+  <li>Improved data retrieval efficiency by <strong>25%</strong> through ML pipeline optimization.</li>
+  <li>Improved deployment workflows through CI/CD automation and standardized IaC practices.</li>
+  <li>Automated reporting and optimization workflows.</li>
+</ul>
+
+---
+
+<h2 align="center">🚀 What I Build</h2>
 
 <p align="center">
-  <a href="https://github.com/JoseJulianMosqueraFuli/genai-agents"><img src="https://img.shields.io/badge/Agentic_AI-412991?style=flat-square&logo=openai&logoColor=white" alt="Agentic AI" /></a>
-  <a href="https://modelcontextprotocol.io"><img src="https://img.shields.io/badge/MCP-6C5CE7?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="MCP" /></a>
-  <img src="https://img.shields.io/badge/MLOps-FF6F00?style=flat-square&logo=mlflow&logoColor=white" alt="MLOps" />
-  <img src="https://img.shields.io/badge/LLMOps-412991?style=flat-square&logo=openai&logoColor=white" alt="LLMOps" />
-  <img src="https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="Bedrock" />
-  <img src="https://img.shields.io/badge/SageMaker-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="SageMaker" />
+  <img src="https://img.shields.io/badge/AI_Platform_Engineering-2563EB?style=flat-square" alt="AI Platform Engineering" />
+  <img src="https://img.shields.io/badge/MLOps_%26_LLMOps-FF6F00?style=flat-square&logo=mlflow&logoColor=white" alt="MLOps and LLMOps" />
+  <a href="https://github.com/JoseJulianMosqueraFuli/genai-agents"><img src="https://img.shields.io/badge/AgentOps-412991?style=flat-square&logo=openai&logoColor=white" alt="AgentOps" /></a>
+  <img src="https://img.shields.io/badge/AWS_AI-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS AI" />
   <img src="https://img.shields.io/badge/Kubernetes_(EKS)-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/GPU_Infrastructure-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA" />
 </p>
 
 <p align="center">
-  Building autonomous agents for cloud & dev workflows • Deploying LLMs and agentic AI at scale • Optimizing AI infrastructure costs
+  <strong>AI platforms:</strong> repeatable model and agent delivery<br/>
+  <strong>Production operations:</strong> evaluation, observability, security, and cost awareness<br/>
+  <strong>Cloud foundations:</strong> AWS, Kubernetes, and infrastructure as code
 </p>
 
 ---
@@ -98,9 +102,9 @@
       <a href="https://github.com/JoseJulianMosqueraFuli/genai-agents"><strong>genai-agents</strong></a>
     </td>
     <td>
-      Production-grade GenAI agent platform: RAG pipeline, multi-provider LLMs,
-      input/output guardrails (prompt-injection defense, PII redaction),
-      faithfulness &amp; relevance eval, and per-request cost tracking.
+      GenAI agent platform demonstrating RAG, multi-provider models, input/output
+      guardrails, prompt-injection defenses, PII redaction, quality evaluation,
+      and per-request cost tracking.
     </td>
     <td>FastAPI · LangGraph · Bedrock · OpenAI · Terraform · ECS Fargate</td>
   </tr>
@@ -109,8 +113,8 @@
       <a href="https://github.com/JoseJulianMosqueraFuli/E2E-EKS-GitOps"><strong>E2E-EKS-GitOps</strong></a>
     </td>
     <td>
-      End-to-end MLOps platform on EKS: infrastructure as code, GitOps delivery,
-      model serving and full observability.
+      End-to-end MLOps platform on EKS, connecting infrastructure as code,
+      GitOps delivery, model serving, and observability.
     </td>
     <td>Terraform · EKS · ArgoCD · KServe · MLflow · Prometheus · Grafana</td>
   </tr>
