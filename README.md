@@ -36,7 +36,7 @@
   <tr>
     <td>🏢</td>
     <td>
-      <strong>Cloud Infrastructure Architect</strong> at
+      <strong>Cloud Infrastructure Architect</strong> @
       <a href="https://thomasgregandsons.com/nuestra-presencia-en-el-mundo/">TPS</a>
     </td>
   </tr>
